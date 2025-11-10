@@ -128,7 +128,6 @@ Make sure you have the following installed:
 
 ### 2️⃣ Clone the Repository  
 
-```bash
 git clone https://github.com/cyberbuddyshivam/Blog-Platform-MiniProject.git
 cd Blog-Platform-MiniProject
 3️⃣ Setup and Run the Backend
